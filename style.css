@@ -1,8 +1,9 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://s-media-cache-ak0.pinimg.com/564x/29/6a/bf/296abf6345786ab9d3e8a087127a8818.jpg");
       background-size: cover;
       color: white;
+      text-font:font-family: 'Great Vibes', cursive;
     }
     .nav {
       color: white;
@@ -38,3 +39,4 @@
         display: block;
       }
     }
+   
